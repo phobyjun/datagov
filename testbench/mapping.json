@@ -1,0 +1,19 @@
+{
+  "publicDataSj": "dct:title",
+  "publicDataEngSj": "dct:title@en",
+  "publicDataSjEn": "dct:title@en",
+  "publicDataDc": "dct:description",
+  "publicDataDcEn": "dct:description@en",
+  "kwrd": "dcat:keyword",
+  "kwrdEn": "dcat:keyword@en",
+  "registDt": "dct:issued",
+  "updtDt": "dct:modified",
+  "registerId": "dct:creator",
+  "jrsdMiryfcCode": "dct:spatial",
+  "DataNm": "dct:title",
+  "DataNmEn": "dct:title@en",
+  "DataDc": "dct:description",
+  "DataDcEn": "dct:description@en",
+  "atchFileExtsn": "dct:format",
+  "downloadUrl": "dcat:downloadURL"
+}
